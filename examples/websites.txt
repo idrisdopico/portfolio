@@ -1,0 +1,5 @@
+http://www.jeroenbranje.nl/portfolio/
+http://www.rickmakkee.nl/
+
+https://www.sitepoint.com/how-to-create-a-portfolio-site-that-will-get-you-hired/
+http://forum.codecall.net/topic/74170-clean-urls-with-php/
